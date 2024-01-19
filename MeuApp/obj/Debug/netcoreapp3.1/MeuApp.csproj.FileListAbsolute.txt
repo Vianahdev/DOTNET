@@ -1,0 +1,13 @@
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.exe
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.deps.json
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.runtimeconfig.json
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.runtimeconfig.dev.json
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.csprojAssemblyReference.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.AssemblyInfoInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.AssemblyInfo.cs
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.genruntimeconfig.cache
