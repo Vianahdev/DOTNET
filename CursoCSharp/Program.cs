@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Diagnostics.Contracts;
 
 namespace CursoCSharp{
     class Program{
@@ -7,11 +6,15 @@ namespace CursoCSharp{
             Console.WriteLine("Informe a tabuada");
             int v_tabuada = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i <= 10; i++){
-                    int v_calc = i * v_tabuada;
+            int i = 0;
 
-                    Console.WriteLine($"{v_tabuada} X {i} = {v_calc}");
-            };
+            while(i <= 10){
+                int v_calc = i * v_tabuada;
+
+                Console.WriteLine($"{v_tabuada} X {i} = {v_calc}");
+
+                i++;
+            }
         }
     }
 }
