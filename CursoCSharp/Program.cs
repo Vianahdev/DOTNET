@@ -4,7 +4,8 @@ using System.Diagnostics.Contracts;
 namespace CursoCSharp{
     class Program{
         static void Main(String [] args){
-            int v_tabuada = 2;
+            Console.WriteLine("Informe a tabuada");
+            int v_tabuada = int.Parse(Console.ReadLine());
 
             for (int i = 0; i <= 10; i++){
                     int v_calc = i * v_tabuada;
