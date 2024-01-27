@@ -7,14 +7,13 @@ namespace CursoCSharp{
             int v_tabuada = int.Parse(Console.ReadLine());
 
             int i = 0;
-
-            while(i <= 10){
+            do{
                 int v_calc = i * v_tabuada;
 
                 Console.WriteLine($"{v_tabuada} X {i} = {v_calc}");
 
                 i++;
-            }
+            }while(i <= 10);
         }
     }
 }
