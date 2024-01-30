@@ -3,17 +3,21 @@
 namespace CursoCSharp{
     class Program{
         static void Main(String [] args){
-            Console.WriteLine("Informe a tabuada");
-            int v_tabuada = int.Parse(Console.ReadLine());
+            var v_firstName = "";
+            var v_lastName = "";
 
-            int i = 0;
-            do{
-                int v_calc = i * v_tabuada;
+            Console.WriteLine("Qual seu Primeiro Nome:");
+            v_firstName = Console.ReadLine();
 
-                Console.WriteLine($"{v_tabuada} X {i} = {v_calc}");
+            Console.WriteLine("Qual seu ultimo Nome:");
+            v_lastName = Console.ReadLine();
 
-                i++;
-            }while(i <= 10);
+
+            Console.WriteLine(ReturnName(v_firstName, v_lastName));
+        }
+
+        static String ReturnName( string firstName, string LastName){
+            return "Seu Nome é:" + firstName + ", e seu ultimo nome é:" + LastName; 
         }
     }
 }
