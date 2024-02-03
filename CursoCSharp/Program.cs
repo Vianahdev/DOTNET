@@ -3,22 +3,18 @@
 namespace CursoCSharp{
     class Program{
         static void Main(String [] args){
-            var v_firstName = "";
-            var v_lastName = "";
+            int x = 25;
+            int y = x;
 
-            Console.WriteLine("Qual seu Primeiro Nome:");
-            v_firstName = Console.ReadLine();
+            Console.WriteLine($"Variavel {x}");
+            Console.WriteLine($"Variavel {y}");
 
-            Console.WriteLine("Qual seu ultimo Nome:");
-            v_lastName = Console.ReadLine();
+            x = 32;
 
-
-            Console.WriteLine(ReturnName(v_firstName, v_lastName));
+            Console.WriteLine($"Variavel {x}");
+            Console.WriteLine($"Variavel {y}");
         }
 
-        static String ReturnName( string firstName, string LastName){
-            return "Seu Nome é:" + firstName + ", e seu ultimo nome é:" + LastName; 
-        }
     }
 }
  
