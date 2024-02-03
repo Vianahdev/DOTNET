@@ -3,16 +3,18 @@
 namespace CursoCSharp{
     class Program{
         static void Main(String [] args){
-            int x = 25;
-            int y = x;
+            var arr = new string[2];
+            arr[0] = "Item 1";
 
-            Console.WriteLine($"Variavel {x}");
-            Console.WriteLine($"Variavel {y}");
+            var arr2 = arr;
 
-            x = 32;
+            Console.WriteLine($"Variavel {arr[0]}");
+            Console.WriteLine($"Variavel {arr2[0]}");
 
-            Console.WriteLine($"Variavel {x}");
-            Console.WriteLine($"Variavel {y}");
+            arr[0] = "Item 2";
+
+            Console.WriteLine($"Variavel {arr[0]}");
+            Console.WriteLine($"Variavel {arr2[0]}");
         }
 
     }
