@@ -14,6 +14,7 @@ namespace CursoCSharp{
             Console.WriteLine($"Nome Cliente: {cliente.Cliente_name}");
             Console.WriteLine($"Idade Cliente: {cliente.Cliente_idade}");
             Console.WriteLine($"Estado Civil: {cliente.EstadoCivil}");
+            Console.WriteLine($"Estado Civil: {(int)cliente.EstadoCivil}"); // Utilizando conversão explicita para trazer o indice atribuido do enumerador.
         }
 
     }
