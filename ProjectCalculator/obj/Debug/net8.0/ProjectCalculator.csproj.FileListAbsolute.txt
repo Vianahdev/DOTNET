@@ -1,0 +1,15 @@
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\obj\Debug\net8.0\ProjectCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\obj\Debug\net8.0\ProjectCalculator.AssemblyInfoInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\obj\Debug\net8.0\ProjectCalculator.AssemblyInfo.cs
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\obj\Debug\net8.0\ProjectCalculator.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\obj\Debug\net8.0\ProjectCalculator.sourcelink.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\bin\Debug\net8.0\ProjectCalculator.exe
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\bin\Debug\net8.0\ProjectCalculator.deps.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\bin\Debug\net8.0\ProjectCalculator.runtimeconfig.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\bin\Debug\net8.0\ProjectCalculator.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\bin\Debug\net8.0\ProjectCalculator.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\obj\Debug\net8.0\ProjectCalculator.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\obj\Debug\net8.0\refint\ProjectCalculator.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\obj\Debug\net8.0\ProjectCalculator.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\obj\Debug\net8.0\ProjectCalculator.genruntimeconfig.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCalculator\obj\Debug\net8.0\ref\ProjectCalculator.dll
