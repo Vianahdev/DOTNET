@@ -1,0 +1,15 @@
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\bin\Debug\net8.0\ProjectStopwatch.exe
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\bin\Debug\net8.0\ProjectStopwatch.deps.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\bin\Debug\net8.0\ProjectStopwatch.runtimeconfig.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\bin\Debug\net8.0\ProjectStopwatch.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\bin\Debug\net8.0\ProjectStopwatch.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\obj\Debug\net8.0\ProjectStopwatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\obj\Debug\net8.0\ProjectStopwatch.AssemblyInfoInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\obj\Debug\net8.0\ProjectStopwatch.AssemblyInfo.cs
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\obj\Debug\net8.0\ProjectStopwatch.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\obj\Debug\net8.0\ProjectStopwatch.sourcelink.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\obj\Debug\net8.0\ProjectStopwatch.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\obj\Debug\net8.0\refint\ProjectStopwatch.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\obj\Debug\net8.0\ProjectStopwatch.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\obj\Debug\net8.0\ProjectStopwatch.genruntimeconfig.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectStopwatch\obj\Debug\net8.0\ref\ProjectStopwatch.dll
