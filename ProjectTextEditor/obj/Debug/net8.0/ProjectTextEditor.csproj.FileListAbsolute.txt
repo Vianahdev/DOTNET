@@ -1,0 +1,15 @@
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\obj\Debug\net8.0\ProjectTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\obj\Debug\net8.0\ProjectTextEditor.AssemblyInfoInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\obj\Debug\net8.0\ProjectTextEditor.AssemblyInfo.cs
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\obj\Debug\net8.0\ProjectTextEditor.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\obj\Debug\net8.0\ProjectTextEditor.sourcelink.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\bin\Debug\net8.0\ProjectTextEditor.exe
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\bin\Debug\net8.0\ProjectTextEditor.deps.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\bin\Debug\net8.0\ProjectTextEditor.runtimeconfig.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\bin\Debug\net8.0\ProjectTextEditor.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\bin\Debug\net8.0\ProjectTextEditor.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\obj\Debug\net8.0\ProjectTextEditor.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\obj\Debug\net8.0\refint\ProjectTextEditor.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\obj\Debug\net8.0\ProjectTextEditor.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\obj\Debug\net8.0\ProjectTextEditor.genruntimeconfig.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectTextEditor\obj\Debug\net8.0\ref\ProjectTextEditor.dll
