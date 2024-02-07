@@ -1,0 +1,15 @@
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\bin\Debug\net8.0\ProjectCaixaEletronico.exe
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\bin\Debug\net8.0\ProjectCaixaEletronico.deps.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\bin\Debug\net8.0\ProjectCaixaEletronico.runtimeconfig.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\bin\Debug\net8.0\ProjectCaixaEletronico.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\bin\Debug\net8.0\ProjectCaixaEletronico.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\obj\Debug\net8.0\ProjectCaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\obj\Debug\net8.0\ProjectCaixaEletronico.AssemblyInfoInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\obj\Debug\net8.0\ProjectCaixaEletronico.AssemblyInfo.cs
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\obj\Debug\net8.0\ProjectCaixaEletronico.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\obj\Debug\net8.0\ProjectCaixaEletronico.sourcelink.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\obj\Debug\net8.0\ProjectCaixaEletronico.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\obj\Debug\net8.0\refint\ProjectCaixaEletronico.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\obj\Debug\net8.0\ProjectCaixaEletronico.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\obj\Debug\net8.0\ProjectCaixaEletronico.genruntimeconfig.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectCaixaEletronico\obj\Debug\net8.0\ref\ProjectCaixaEletronico.dll

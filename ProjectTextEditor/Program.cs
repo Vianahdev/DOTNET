@@ -41,7 +41,17 @@ namespace ProjectTextEditor{
         }
 
         static void Edit(){
-            Console.WriteLine("Editadno aqruivo..");
+            Console.Clear();
+            Console.WriteLine("Digite seu texto abaixo (ESC para sair)");
+            Console.WriteLine("---------------");
+
+            string text = "";
+            
+            while (Console.ReadKey().Key != ConsoleKey.Escape)
+            {
+                
+            }
+
         }
     }
 }
