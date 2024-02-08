@@ -1,0 +1,15 @@
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\bin\Debug\net8.0\ProjectEvenNumber.exe
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\bin\Debug\net8.0\ProjectEvenNumber.deps.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\bin\Debug\net8.0\ProjectEvenNumber.runtimeconfig.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\bin\Debug\net8.0\ProjectEvenNumber.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\bin\Debug\net8.0\ProjectEvenNumber.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\obj\Debug\net8.0\ProjectEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\obj\Debug\net8.0\ProjectEvenNumber.AssemblyInfoInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\obj\Debug\net8.0\ProjectEvenNumber.AssemblyInfo.cs
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\obj\Debug\net8.0\ProjectEvenNumber.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\obj\Debug\net8.0\ProjectEvenNumber.sourcelink.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\obj\Debug\net8.0\ProjectEvenNumber.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\obj\Debug\net8.0\refint\ProjectEvenNumber.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\obj\Debug\net8.0\ProjectEvenNumber.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\obj\Debug\net8.0\ProjectEvenNumber.genruntimeconfig.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEvenNumber\obj\Debug\net8.0\ref\ProjectEvenNumber.dll

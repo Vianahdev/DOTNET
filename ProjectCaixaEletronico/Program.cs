@@ -24,13 +24,13 @@ namespace ProjectCaixaEletronico{
 
             if(v_Saque % 10 == 0){
 
-                v_Nota100 = Math.Floor(v_Saque/100);
+                v_Nota100 = v_Saque/100;
                 v_res = v_Saque % 100;
 
-                v_Nota50 = Math.Floor(v_res/50);
+                v_Nota50 = v_res/50;
                 v_res = v_res % 50;
 
-                v_Nota10 = Math.Floor(v_res/10);
+                v_Nota10 = v_res/10;
 
                 Console.WriteLine($"Notas de R$ 100: {v_Nota100}");
                 Console.WriteLine($"Notas de R$ 50: {v_Nota50}");
