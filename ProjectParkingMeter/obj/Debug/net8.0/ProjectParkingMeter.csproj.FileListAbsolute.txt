@@ -1,0 +1,15 @@
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\bin\Debug\net8.0\ProjectParkingMeter.exe
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\bin\Debug\net8.0\ProjectParkingMeter.deps.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\bin\Debug\net8.0\ProjectParkingMeter.runtimeconfig.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\bin\Debug\net8.0\ProjectParkingMeter.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\bin\Debug\net8.0\ProjectParkingMeter.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\obj\Debug\net8.0\ProjectParkingMeter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\obj\Debug\net8.0\ProjectParkingMeter.AssemblyInfoInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\obj\Debug\net8.0\ProjectParkingMeter.AssemblyInfo.cs
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\obj\Debug\net8.0\ProjectParkingMeter.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\obj\Debug\net8.0\ProjectParkingMeter.sourcelink.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\obj\Debug\net8.0\ProjectParkingMeter.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\obj\Debug\net8.0\refint\ProjectParkingMeter.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\obj\Debug\net8.0\ProjectParkingMeter.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\obj\Debug\net8.0\ProjectParkingMeter.genruntimeconfig.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectParkingMeter\obj\Debug\net8.0\ref\ProjectParkingMeter.dll
