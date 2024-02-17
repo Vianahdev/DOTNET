@@ -2,14 +2,18 @@
 
 namespace CursoCSharp{
     class Program{
-        static void Main(String[] args){      
-            var id = Guid.NewGuid(); // Guid - Global Unique Identifier (Identificaor unico universal) gera um hash unico.
+        static void Main(String[] args){
+            //INTERPOLAÇÃO DE STRING
 
-            id.ToString(); // Tranformando o valor do Guid em uma string
+            var price = 10.2; // Declarando uma variavel do tipo Double
 
-            id = new Guid("39ebb384-103f-4a60-83ff-08069b9545e9"); // Setando um valor guid especifico na variaval id.
+            // Declarando uma variavel do tipo String e realizadno a interpolção para sitring.
 
-            Console.WriteLine(id.ToString().Substring(0, 8)); // Utilizando o função Substring para encurtar o hash gerado pelo guid
+            //var text = "O preço do produto é: " + price;
+            //var text = string.Format("O preço do produto é {0} , somente na promoção", price);
+            var text = $"O preço do produto é {price} , somente na promoção";
+
+            Console.WriteLine(text);
      
         }
     }
