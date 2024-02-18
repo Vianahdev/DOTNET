@@ -3,18 +3,25 @@
 namespace CursoCSharp{
     class Program{
         static void Main(String[] args){
-            //INTERPOLAÇÃO DE STRING
+            //COMPARAÇÃO DE STRING
+            Console.Clear();
+            var texto = Console.ReadLine();
 
-            var price = 10.2; // Declarando uma variavel do tipo Double
+             
+            // UTILIZANDO O METEDO COMPARETO()
+            if(texto.CompareTo("teste") == 0) // Utilizando o metodo CompareTo() para realizar a comparação de uma string.
+                Console.WriteLine("Contem a palavra teste");
 
-            // Declarando uma variavel do tipo String e realizadno a interpolção para sitring.
+            else
+                Console.WriteLine("Não contem a palavra teste");
+            
 
-            //var text = "O preço do produto é: " + price;
-            //var text = string.Format("O preço do produto é {0} , somente na promoção", price);
-            var text = $"O preço do produto é {price} , somente na promoção";
+            //UTILIZANDO O METODO CONTAINS()
+            if(texto.Contains("teste") == true) // Utilizando o metodo Contains() para realizar a comparação de um pedaço de texto ou uma string.
+                Console.WriteLine("O texto contem a palavra teste");
 
-            Console.WriteLine(text);
-     
+            else
+                Console.WriteLine("O texto não contem a palavra teste");
         }
     }
 }
