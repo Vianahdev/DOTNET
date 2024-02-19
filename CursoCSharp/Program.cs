@@ -3,25 +3,22 @@
 namespace CursoCSharp{
     class Program{
         static void Main(String[] args){
-            //COMPARAÇÃO DE STRING
+            //STARTSWITH , ENDWITH
             Console.Clear();
-            var texto = Console.ReadLine();
+            var text = Console.ReadLine();
 
-             
-            // UTILIZANDO O METEDO COMPARETO()
-            if(texto.CompareTo("teste") == 0) // Utilizando o metodo CompareTo() para realizar a comparação de uma string.
-                Console.WriteLine("Contem a palavra teste");
-
-            else
-                Console.WriteLine("Não contem a palavra teste");
-            
-
-            //UTILIZANDO O METODO CONTAINS()
-            if(texto.Contains("teste") == true) // Utilizando o metodo Contains() para realizar a comparação de um pedaço de texto ou uma string.
-                Console.WriteLine("O texto contem a palavra teste");
-
-            else
-                Console.WriteLine("O texto não contem a palavra teste");
+            Console.WriteLine(" ");
+            Console.WriteLine("STARTSWITH"); 
+            Console.WriteLine("------------");
+            Console.WriteLine(text.StartsWith("Texto"));
+            Console.WriteLine(text.StartsWith("texto"));
+            Console.WriteLine(text.StartsWith("este"));
+            Console.WriteLine(" ");
+            Console.WriteLine("ENDWITH");
+            Console.WriteLine("------------");
+            Console.WriteLine(text.EndsWith("Texto"));
+            Console.WriteLine(text.EndsWith("texto"));
+            Console.WriteLine(text.EndsWith("metodo"));
         }
     }
 }
