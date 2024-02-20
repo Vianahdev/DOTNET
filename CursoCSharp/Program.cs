@@ -3,22 +3,19 @@
 namespace CursoCSharp{
     class Program{
         static void Main(String[] args){
-            //STARTSWITH , ENDWITH
+            //EQUALS
             Console.Clear();
-            var text = Console.ReadLine();
+            //Metodo Equals() sendo utilizado em uma cadeia de caracteres..
+            var text = "Este e um texto de teste";
 
-            Console.WriteLine(" ");
-            Console.WriteLine("STARTSWITH"); 
-            Console.WriteLine("------------");
-            Console.WriteLine(text.StartsWith("Texto"));
-            Console.WriteLine(text.StartsWith("texto"));
-            Console.WriteLine(text.StartsWith("este"));
-            Console.WriteLine(" ");
-            Console.WriteLine("ENDWITH");
-            Console.WriteLine("------------");
-            Console.WriteLine(text.EndsWith("Texto"));
-            Console.WriteLine(text.EndsWith("texto"));
-            Console.WriteLine(text.EndsWith("metodo"));
+            Console.WriteLine(text.Equals("Este e um texto de teste"));
+            Console.WriteLine(text.Equals("este e um texto de teste", StringComparison.OrdinalIgnoreCase));// Utilizando a função "StringComparison.OrdinalIgnoreCase" para ignorar o case sensitive
+
+
+            //Metodo Equals() sendo utilizado em um tipo numerico
+            var num1 = 30;
+
+            Console.WriteLine(num1.Equals(30));
         }
     }
 }
