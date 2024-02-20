@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectParkingMeter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d24e5d5b59dc6c1fdd10529d2e5d7a073ca2f9a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38a2f73fefa32cc069ef85c2e864f6fcb7cec101")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectParkingMeter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectParkingMeter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
