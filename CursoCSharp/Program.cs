@@ -3,15 +3,23 @@
 namespace CursoCSharp{
     class Program{
         static void Main(String[] args){
-            //METODOS ADICIONAIS
+            //MANIPULANDO STRING
 
-            var text = "Este E um TEXTO de teSTe";
+            var text = " Este E um TEXTO de teSTe ";
 
-            Console.WriteLine(text.ToUpper()); // O metodo ToUpper() e utilizado para conversão da string para MAIUSCULO
-            Console.WriteLine(text.ToLower()); // O metodo ToLower() e utilizado para conversão da string para minusculo
-            Console.WriteLine(text.Insert(9," ..OLA")); // O metodo Insert() e utilizado para inserir um novo objeto.
-            Console.WriteLine(text.Remove(9,0)); // O metodo Remove() e utilizado para remove algum objeto.
-            Console.WriteLine(text.Length); // O metodo Length e utilziado para verificar o tamanho da cadeia de caractere.
+            Console.WriteLine(text.Replace("Este", "Ola,"));// O método Replace() e utilizado para substituir um objeto por outro.
+
+            var div = text.Split(" ");// O método Split() e utilizado para realizar uma divição dentro de uma cadeia, muito utilziado em lista.
+            Console.WriteLine(div[0]);
+            Console.WriteLine(div[1]);
+            Console.WriteLine(div[2]);
+            Console.WriteLine(div[3]);
+            Console.WriteLine(div[4]);
+
+            var result = text.Substring(6,10);// O método Substring() e utilizado para podermos coletar uma determinada cadeia de caractere.
+            Console.WriteLine(result);
+
+            Console.WriteLine(text.Trim());// O método Trim() e utilizado para remover os espaçamentos do inicio e final da cadeia de caractere.
         }
     }
 }
