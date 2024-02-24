@@ -2,11 +2,13 @@
 
 namespace CursoCSharp{
     class Program{
-        static void Main(String[] args){
+        static void Main(string[] args){
 
            var data = DateTime.Now;
 
-           Console.WriteLine(data);
+           Console.WriteLine(data.Year);
+           Console.WriteLine(data.Month);
+           Console.WriteLine(data.Day);
         }
     }
 }
