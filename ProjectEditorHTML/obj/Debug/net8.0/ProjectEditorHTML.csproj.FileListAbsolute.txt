@@ -1,0 +1,15 @@
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\bin\Debug\net8.0\ProjectEditorHTML.exe
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\bin\Debug\net8.0\ProjectEditorHTML.deps.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\bin\Debug\net8.0\ProjectEditorHTML.runtimeconfig.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\bin\Debug\net8.0\ProjectEditorHTML.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\bin\Debug\net8.0\ProjectEditorHTML.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\obj\Debug\net8.0\ProjectEditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\obj\Debug\net8.0\ProjectEditorHTML.AssemblyInfoInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\obj\Debug\net8.0\ProjectEditorHTML.AssemblyInfo.cs
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\obj\Debug\net8.0\ProjectEditorHTML.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\obj\Debug\net8.0\ProjectEditorHTML.sourcelink.json
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\obj\Debug\net8.0\ProjectEditorHTML.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\obj\Debug\net8.0\refint\ProjectEditorHTML.dll
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\obj\Debug\net8.0\ProjectEditorHTML.pdb
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\obj\Debug\net8.0\ProjectEditorHTML.genruntimeconfig.cache
+E:\Desenvolvimento Web\AULAS\DOTNET\ProjectEditorHTML\obj\Debug\net8.0\ref\ProjectEditorHTML.dll
