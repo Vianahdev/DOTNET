@@ -3,17 +3,17 @@
 namespace CursoCSharp{
     class Program{
         static void Main(String[] args){
-            //INCLUINDO VALORES
+            // LISTAS - VETORES - ARRAYS
 
-            //Podemos utilizar o metodo Add para relaizar modificações nas datas.
-           var v_date = DateTime.Now;
+            var myArray = new int[5];
 
-           Console.WriteLine(v_date.AddDays(55));
-           Console.WriteLine(v_date.AddMonths(55));
-           Console.WriteLine(v_date.AddYears(55));
-           Console.WriteLine(v_date.AddHours(55));
-           Console.WriteLine(v_date.AddMinutes(55));
+            myArray[0]= 12;
+            myArray[1]= 34;
+            myArray[2]= 54;
+            myArray[3]= 76;
+            myArray[4]= 16;
 
+            Console.WriteLine(myArray[0]);
         }
     }
 }
