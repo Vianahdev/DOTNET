@@ -3,17 +3,13 @@
 namespace CursoCSharp{
     class Program{
         static void Main(String[] args){
-            // LISTAS - VETORES - ARRAYS
+            // PERCORRENDO UM ARRAY
 
-            var myArray = new int[5];
-
-            myArray[0]= 12;
-            myArray[1]= 34;
-            myArray[2]= 54;
-            myArray[3]= 76;
-            myArray[4]= 16;
-
-            Console.WriteLine(myArray[0]);
+            var myArray = new int[5] {32, 43, 33, 45, 56};
+            
+            for(var indice = 0; indice <= myArray.Length; indice++){
+                Console.WriteLine(myArray[indice]);
+            }
         }
     }
 }
