@@ -3,12 +3,13 @@
 namespace CursoCSharp{
     class Program{
         static void Main(String[] args){
-            // PERCORRENDO UM ARRAY
-
-            var myArray = new int[5] {32, 43, 33, 45, 56};
+            // PERCORRENDO UM ARRAY UTILIZANDO FOREACH
+            Console.Clear();
             
-            for(var indice = 0; indice <= myArray.Length; indice++){
-                Console.WriteLine(myArray[indice]);
+            var myArray = new int[5] {3,34,54,65,32};
+
+            foreach(var item in myArray){   
+                Console.WriteLine(item);
             }
         }
     }
