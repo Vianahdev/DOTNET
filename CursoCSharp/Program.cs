@@ -8,12 +8,12 @@ namespace CursoCSharp{
 
             var myArray = new int[5];
 
-            try {
+            try { // Utilizados o Try/Catch para realizar um tratamento de erro em bloco.. 
                 for(var index = 0; index <= 10; index++){
                     Console.WriteLine(myArray[index]);
                 }
             }
-            catch (Exception ex){
+            catch (Exception ex){// Podemos utilziar a propriedade Exception para coletar o erro que está ocorrendo.
                 /* Console.WriteLine(ex.InnerException);
                 Console.WriteLine(ex.Message); */
                 Console.WriteLine("Ocorreu um erro, informar o administrador.");
